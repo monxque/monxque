@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @monxque, currently a CS student in Langara College. 
-- 👀 I’m interested in making games and websites. 
-- 🌱 I mainly use HTML, CSS, JavaScript or Java in my projects, but I also use PHP and am still learning others.
-- 🖌️ I am also interested in web design and graphic design, and competent in using Adobe Photoshop / Illustrator.
-- 💞️ I’m looking to collaborate on interesting games or websites.
+- 👀 I love making games and websites, and am looking forward to collaborating with others on interesting projects. 
+- 🌱 I use HTML, CSS, JavaScript, PHP, Java in my projects, and am still building up my knowledge base.
+- 🖌️ My another interest is web design and graphic design, and am competent in using Adobe Photoshop / Illustrator. 
 - 📫 You can reach me via monxque@gmail.com for any collaboration ideas!
 
 <!---
